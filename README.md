@@ -4,7 +4,7 @@ This repository contains all the practice templates I’ve created using **HTML*
 
 ## What's Inside
 - Clean and responsive page layouts
-- Practice with common UI components (e.g., pricing panels, headers, buttons)
+- Practice with common UI components (e.g., pricing section, headers, buttons)
 - Simple, beginner-friendly code structure
 
 ## Purpose
